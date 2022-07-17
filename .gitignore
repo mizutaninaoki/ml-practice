@@ -225,4 +225,3 @@ cython_debug/
 
 .tmp
 test
-unit
